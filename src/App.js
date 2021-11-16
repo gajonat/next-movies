@@ -10,8 +10,6 @@ require('dotenv').config()
 
 const customStyles = {
   content: {
-    height: '464px',
-    width: '915px',    
     top: '50%',
     left: '50%',
     right: 'auto',

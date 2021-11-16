@@ -3,7 +3,7 @@ const ContentHeader = () => {
     return (
         <div className="content-header">
             <div className="content-header-caption"> 
-                Explore your next movies and tv shows
+                Explore your next <br />movies and tv shows
             </div>
         </div>
     )
